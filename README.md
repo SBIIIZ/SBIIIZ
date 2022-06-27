@@ -16,7 +16,8 @@
 <a href="https://instagram.com/@_sbiiiz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_sbiiiz_" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbiiiz&show_icons=true&locale=en&layout=compact" alt="sbiiiz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbiiiz&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="sbiiiz" /></p>
+
 
 
 <!---
